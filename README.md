@@ -33,10 +33,12 @@
 4.   英语的东西
 5.   运动一波
 6.   三网融合，搞事情。
+
+
 ###时间计划，顺带加上时间与地点。
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| time        | where           |what|how|
+|:-------------:|:-------------:|:-----:|:---:|
+| col 3 is      | right-aligned | $1600 |s|
+| col 2 is      | centered      |   $12 |s|
+| zebra stripes | are neat      |    $1 |s|
